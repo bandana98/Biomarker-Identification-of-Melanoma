@@ -1,0 +1,14 @@
+## Installation
+
+### Manual Installation
+
+To install the required R packages manually, run the following commands in an R session:
+
+```r
+# Install CRAN packages
+install.packages(c("ggplot2", "dplyr", "readr", "stringr", "tidyr", "purrr"))
+
+# Install required Bioconductor packages
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install(c("edgeR", "DESeq2", "MsigDb", "GAVA", "limma", "org.Hs.eg.db", "AnnotationDbi"))
