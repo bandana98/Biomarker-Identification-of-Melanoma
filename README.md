@@ -37,7 +37,7 @@ This R pipeline integrates microarray and RNASeq data to identify prognostic mar
 
 1. **Install Required R Packages**
 
-   You can install the required packages manually. First, install CRAN packages:
+   You can go ahead and install the required packages manually. First, install CRAN packages:
 
    ```r
    install.packages(c("dplyr", "data.table", "glmnet", "plyr", "corrr", "survival"))
