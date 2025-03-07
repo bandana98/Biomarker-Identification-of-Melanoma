@@ -1,0 +1,75 @@
+geo_accession,sample_type,age,braf_status,gender,nras_status,Tumor_status
+GSM390208,Normal,79,Normal,m,not applicable,Normal
+GSM390209,Normal,47,Normal,m,not applicable,Normal
+GSM390210,Normal,44,Normal,f,not applicable,Normal
+GSM390211,Normal,85,Normal,m,not applicable,Normal
+GSM390212,Normal,39,Normal,m,not applicable,Normal
+GSM390213,Normal,41,Normal,m,not applicable,Normal
+GSM390214,Normal,50,Normal,m,not applicable,Normal
+GSM390215,Normal,44,Normal,m,not applicable,Normal
+GSM390216,Normal,74,Normal,m,not applicable,Normal
+GSM390217,Normal,56,Normal,m,not applicable,Normal
+GSM390218,Normal,73,Normal,f,not applicable,Normal
+GSM390219,Normal,58,Normal,m,not applicable,Normal
+GSM390220,Normal,20,Normal,f,not applicable,Normal
+GSM390221,Normal,62,Normal,m,not applicable,Normal
+GSM390222,Normal,55,Normal,m,not applicable,Normal
+GSM390223,Normal,52,Normal,m,not applicable,Normal
+GSM390224,Primary,66,WT,m,WT,Tumor
+GSM390225,Primary,60,WT,m,WT,Tumor
+GSM390226,Primary,76,WT,m,Q61R,Tumor
+GSM390227,Primary,50,WT,m,WT,Tumor
+GSM390228,Primary,59,V600R,m,WT,Tumor
+GSM390229,Primary,63,WT,m,WT,Tumor
+GSM390230,Primary,47,WT,m,WT,Tumor
+GSM390231,Primary,44,V600E,f,WT,Tumor
+GSM390232,Primary,42,V600E,m,WT,Tumor
+GSM390233,Primary,81,WT,f,WT,Tumor
+GSM390234,Primary,83,V600E,m,WT,Tumor
+GSM390235,Primary,80,WT,m,Q61R,Tumor
+GSM390236,Primary,72,V600E,f,WT,Tumor
+GSM390237,Primary,61,V600E,m,WT,Tumor
+GSM390238,Primary,55,WT,f,Q61K,Tumor
+GSM390239,Primary,41,L597S,m,WT,Tumor
+GSM390240,Primary,50,V600E,m,WT,Tumor
+GSM390241,Primary,50,V600E,m,WT,Tumor
+GSM390242,Primary,33,WT,f,WT,Tumor
+GSM390243,Primary,76,WT,m,WT,Tumor
+GSM390244,Primary,45,WT,f,WT,Tumor
+GSM390245,Primary,51,V600E,f,WT,Tumor
+GSM390246,Primary,74,WT,m,WT,Tumor
+GSM390247,Primary,79,WT,m,WT,Tumor
+GSM390248,Primary,56,V600E,m,WT,Tumor
+GSM390249,Primary,44,WT,m,WT,Tumor
+GSM390250,Primary,33,WT,f,WT,Tumor
+GSM390251,Primary,73,WT,f,WT,Tumor
+GSM390252,Primary,20,V600E,f,WT,Tumor
+GSM390253,Primary,70,WT,f,WT,Tumor
+GSM390254,Primary,62,V600K,m,WT,Tumor
+GSM390255,Primary,55,V600K,m,WT,Tumor
+GSM390256,Primary,67,WT,m,Q61R,Tumor
+GSM390257,Primary,43,V600E,m,WT,Tumor
+GSM390258,Primary,48,V600E,m,WT,Tumor
+GSM390259,Primary,70,WT,m,WT,Tumor
+GSM390260,Primary,52,V600E,m,WT,Tumor
+GSM390261,Primary,36,V600E,m,WT,Tumor
+GSM390262,Primary,87,WT,f,WT,Tumor
+GSM390263,Primary,92,WT,f,Q61L,Tumor
+GSM390264,Primary,66,V600E,m,WT,Tumor
+GSM390265,Primary,42,WT,m,WT,Tumor
+GSM390266,Primary,45,WT,m,WT,Tumor
+GSM390267,Primary,80,WT,m,WT,Tumor
+GSM390268,Primary,87,WT,f,Q61L,Tumor
+GSM390269,Primary,64,L597R,m,WT,Tumor
+GSM390270,Metastasis ,40,V600E,m,WT,Tumor
+GSM390271,Metastasis ,66,WT,f,Q61K,Tumor
+GSM390272,Metastasis ,55,V600E,m,WT,Tumor
+GSM390273,Metastasis ,27,V600E,f,WT,Tumor
+GSM390274,Metastasis ,33,V600E,m,WT,Tumor
+GSM390275,Metastasis ,71,V600K,m,WT,Tumor
+GSM390276,Metastasis ,36,V600E,m,WT,Tumor
+GSM390277,Metastasis ,77,WT,f,WT,Tumor
+GSM390278,Metastasis ,90,WT,f,Q61K,Tumor
+GSM390279,Metastasis ,71,V600E,f,WT,Tumor
+GSM390280,Metastasis ,53,WT,m,WT,Tumor
+GSM390281,Metastasis ,89,V600E,f,WT,Tumor

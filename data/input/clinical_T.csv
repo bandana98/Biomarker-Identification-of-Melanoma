@@ -1,0 +1,363 @@
+barcode,sample_type,Tumor_status,stage,T,N,M,days_to_last_follow_up,days_to_death,os_status,os_time,race,gender,age,primary_diagnosis,site_of_resection_or_biopsy
+TCGA-3N-A9WB-06A-11R-A38C-07,Metastatic,Tumor,I,T1,NX,M0,NA,518,Dead,518,white,male,71,"Malignant melanoma, NOS",Skin of trunk
+TCGA-3N-A9WC-06A-11R-A38C-07,Metastatic,Tumor,II,T2,NX,M0,2022,NA,Alive,2022,white,male,82,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-3N-A9WD-06A-11R-A38C-07,Metastatic,Tumor,III,T2,N1,M0,NA,395,Dead,395,white,male,82,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-BF-AAP0-06A-11R-A39D-07,Metastatic,Tumor,IV,T4,NX,M1,454,NA,Alive,454,white,female,40,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A1Q1-06A-21R-A18T-07,Metastatic,Tumor,III,T1,N3,M0,NA,504,Dead,504,white,female,79,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1Q3-06A-11R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,NA,507,Dead,507,white,male,64,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1Q4-06A-11R-A18T-07,Metastatic,Tumor,III,T2,N1,M0,3408,NA,Alive,3408,white,female,53,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1Q5-06A-11R-A18T-07,Metastatic,Tumor,Not Reported,TX,N0,M0,NA,3424,Dead,3424,white,male,60,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1Q6-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N1,M0,NA,2184,Dead,2184,white,male,55,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-D3-A1Q7-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,4053,NA,Alive,4053,white,female,42,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1Q8-06A-11R-A18T-07,Metastatic,Tumor,IV,T0,N3,M1,NA,854,Dead,854,white,male,33,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1Q9-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N2,M0,NA,961,Dead,961,white,male,72,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A1QA-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,2765,NA,Alive,2765,white,male,55,"Malignant melanoma, NOS",Spleen
+TCGA-D3-A1QB-06A-11R-A18T-07,Metastatic,Tumor,III,T0,N2,M0,2912,NA,Alive,2912,white,female,75,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A2J6-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,NA,1321,Dead,1321,white,male,65,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A2J7-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N1,M0,NA,3136,Dead,3136,white,male,67,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A2J8-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,1992,Dead,1992,white,male,48,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A2J9-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N3,M0,NA,723,Dead,723,white,male,75,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A2JA-06A-11R-A18T-07,Metastatic,Tumor,III,T2,N1,M0,3514,NA,Alive,3514,white,male,68,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-D3-A2JB-06A-11R-A18T-07,Metastatic,Tumor,I,Tis,N0,M0,NA,5110,Dead,5110,black or african american,female,70,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A2JC-06A-11R-A18T-07,Metastatic,Tumor,III,T0,N2,M0,2639,NA,Alive,2639,white,female,53,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A2JD-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N1,M0,NA,361,Dead,361,white,male,58,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A2JE-06A-11R-A37K-07,Metastatic,Tumor,III,TX,N3,M0,NA,841,Dead,841,white,female,75,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A2JF-06A-11R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,1888,NA,Alive,1888,white,male,74,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-D3-A2JG-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N1,M0,NA,3453,Dead,3453,white,female,30,"Malignant melanoma, NOS",Pelvic lymph nodes
+TCGA-D3-A2JH-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,1280,NA,Alive,1280,white,male,68,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-D3-A2JK-06A-11R-A18S-07,Metastatic,Tumor,III,T4,N2,M0,NA,368,Dead,368,white,male,24,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A2JL-06A-11R-A18S-07,Metastatic,Tumor,Not Reported,TX,N0,M0,5219,NA,Alive,5219,white,female,43,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A2JN-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N1,M0,1709,2022,Dead,2022,white,female,46,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A2JO-06A-11R-A18S-07,Metastatic,Tumor,III,TX,N3,M0,2010,NA,Alive,2010,white,female,50,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-D3-A2JP-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N3,M0,1812,NA,Alive,1812,white,male,37,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A3BZ-06A-12R-A18S-07,Metastatic,Tumor,II,T4,N0,M0,3976,NA,Alive,3976,white,male,63,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-D3-A3C6-06A-12R-A18U-07,Metastatic,Tumor,I,T2,N0,M0,NA,1766,Dead,1766,white,female,54,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A3C7-06A-11R-A18U-07,Metastatic,Tumor,III,T0,N1,M0,1429,NA,Alive,1429,white,female,57,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A3C8-06A-12R-A18S-07,Metastatic,Tumor,III,TX,N3,M0,1409,NA,Alive,1409,white,female,58,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of head, face, and neck"
+TCGA-D3-A3CB-06A-11R-A18S-07,Metastatic,Tumor,Not Reported,T2,N0,M0,5065,NA,Alive,5065,white,male,39,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A3CC-06A-11R-A18S-07,Metastatic,Tumor,II,T4,N0,M0,2644,NA,Alive,2644,white,female,69,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-D3-A3CE-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N1,M0,NA,1832,Dead,1832,white,female,74,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D3-A3CF-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N3,M0,NA,746,Dead,746,white,female,61,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A3ML-06A-11R-A21D-07,Metastatic,Tumor,III,T3,N2,M0,NA,422,Dead,422,white,male,70,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-D3-A3MO-06A-11R-A21D-07,Metastatic,Tumor,III,TX,N2,M0,NA,284,Dead,284,white,male,47,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of abdomen"
+TCGA-D3-A3MR-06A-11R-A21D-07,Metastatic,Tumor,III,T0,N1,M0,3151,NA,Alive,3151,white,male,42,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-D3-A3MU-06A-11R-A21D-07,Metastatic,Tumor,III,T3,N2,M0,1209,NA,Alive,1209,white,male,53,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A3MV-06A-11R-A21D-07,Metastatic,Tumor,III,T2,N2,M0,1378,NA,Alive,1378,white,female,38,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-D3-A51E-06A-11R-A266-07,Metastatic,Tumor,Not Reported,T2,N0,M0,5318,NA,Alive,5318,white,female,39,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-D3-A51F-06A-11R-A266-07,Metastatic,Tumor,III,T4,N1,M0,1695,NA,Alive,1695,white,male,51,Nodular melanoma,Lymph nodes of inguinal region or leg
+TCGA-D3-A51H-06A-12R-A266-07,Metastatic,Tumor,III,T1,N3,M0,1714,NA,Alive,1714,white,male,60,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A51J-06A-11R-A266-07,Metastatic,Tumor,III,T0,N1,M0,4414,NA,Alive,4414,white,male,19,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of pelvis"
+TCGA-D3-A51K-06A-11R-A266-07,Metastatic,Tumor,III,Tis,N2,M0,1002,NA,Alive,1002,white,male,51,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A51N-06A-11R-A266-07,Metastatic,Tumor,IV,T0,N3,M1,688,NA,Alive,688,white,female,56,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A51R-06A-11R-A266-07,Metastatic,Tumor,II,T3,N0,M0,1941,NA,Alive,1941,white,male,60,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A51T-06A-11R-A266-07,Metastatic,Tumor,III,T4,N1,M0,818,NA,Alive,818,white,female,59,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A5GL-06A-11R-A27Q-07,Metastatic,Tumor,I,T2,N0,M0,3826,NA,Alive,3826,white,male,74,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A5GN-06A-11R-A27Q-07,Metastatic,Tumor,I,T1,N0,M0,4129,NA,Alive,4129,white,female,15,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-D3-A5GO-06A-12R-A27Q-07,Metastatic,Tumor,II,T4,N0,M0,4195,NA,Alive,4195,white,male,61,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-D3-A5GR-06A-11R-A27Q-07,Metastatic,Tumor,III,T1,N1,M0,5424,NA,Alive,5424,white,female,23,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A5GS-06A-11R-A27Q-07,Metastatic,Tumor,IV,T1,N1,M1,553,NA,Alive,553,white,male,58,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A5GU-06A-11R-A27Q-07,Metastatic,Tumor,I,T1,N0,M0,3808,NA,Alive,3808,white,male,36,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A8GB-06A-11R-A37K-07,Metastatic,Tumor,III,T3,N1,M0,NA,938,Dead,938,white,male,48,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A8GC-06A-11R-A37K-07,Metastatic,Tumor,III,TX,N3,M0,NA,2421,Dead,2421,white,male,48,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D3-A8GD-06A-11R-A37K-07,Metastatic,Tumor,III,T4,N3,M0,718,NA,Alive,718,white,female,63,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D3-A8GE-06A-11R-A37K-07,Metastatic,Tumor,IV,TX,N0,M1,804,NA,Alive,804,white,male,26,"Spindle cell melanoma, NOS",Skin of upper limb and shoulder
+TCGA-D3-A8GI-06A-11R-A37K-07,Metastatic,Tumor,I,T1,N0,M0,NA,1780,Dead,1780,white,male,68,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-D3-A8GJ-06A-11R-A37K-07,Metastatic,Tumor,II,T3,N0,M0,7342,NA,Alive,7342,white,male,18,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-D3-A8GK-06A-11R-A37K-07,Metastatic,Tumor,II,T3,N0,M0,5177,NA,Alive,5177,white,male,45,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of pelvis"
+TCGA-D3-A8GL-06A-11R-A37K-07,Metastatic,Tumor,III,T2,N1,M0,NA,2711,Dead,2711,white,male,43,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-D3-A8GM-06A-11R-A37K-07,Metastatic,Tumor,II,T3,N0,M0,2897,3259,Dead,3259,white,male,73,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-D3-A8GN-06A-11R-A37K-07,Metastatic,Tumor,Not Reported,TX,N0,M0,4897,NA,Alive,4897,white,female,27,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-D3-A8GP-06A-11R-A37K-07,Metastatic,Tumor,III,T2,N2,M0,4638,NA,Alive,4638,white,male,77,Epithelioid cell melanoma,"Colon, NOS"
+TCGA-D3-A8GQ-06A-11R-A37K-07,Metastatic,Tumor,II,T3,N0,M0,NA,884,Dead,884,white,male,66,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-D3-A8GR-06A-11R-A37K-07,Metastatic,Tumor,I,Tis,N0,M0,NA,3943,Dead,3943,white,female,54,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-D3-A8GS-06A-12R-A37K-07,Metastatic,Tumor,I,T1,N0,M0,NA,3564,Dead,3564,white,male,52,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-D3-A8GV-06A-11R-A37K-07,Metastatic,Tumor,Not Reported,TX,N0,M0,NA,5101,Dead,5101,white,male,25,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-D9-A148-06A-11R-A18S-07,Metastatic,Tumor,NA,TX,N3,M1,4609,NA,Alive,4609,white,male,40,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-D9-A149-06A-11R-A18S-07,Metastatic,Tumor,NA,TX,N1,M0,1663,NA,Alive,1663,white,female,65,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-D9-A1JX-06A-11R-A18S-07,Metastatic,Tumor,NA,TX,NX,M0,195,216,Dead,216,white,female,80,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D9-A1X3-06A-11R-A18S-07,Metastatic,Tumor,NA,T4,N2,NA,551,NA,Alive,551,white,male,63,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-D9-A3Z1-06A-11R-A239-07,Metastatic,Tumor,III,T2,N3,M0,345,468,Dead,468,white,male,66,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D9-A3Z3-06A-11R-A239-07,Metastatic,Tumor,III,T3,N1,M0,678,NA,Alive,678,white,female,39,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D9-A4Z6-06A-12R-A266-07,Metastatic,Tumor,III,T3,N1,M0,338,561,Dead,561,white,male,54,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D9-A6E9-06A-12R-A311-07,Metastatic,Tumor,III,T3,N1,M0,301,NA,Alive,301,white,female,75,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-D9-A6EA-06A-11R-A311-07,Metastatic,Tumor,III,T4,N3,M0,766,NA,Alive,766,white,male,70,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D9-A6EC-06A-11R-A311-07,Metastatic,Tumor,III,T3,N1,M0,2359,NA,Alive,2359,white,male,56,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-D9-A6EG-06A-12R-A32P-07,Metastatic,Tumor,III,T4,N1,M0,NA,698,Dead,698,white,male,56,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-DA-A1HV-06A-21R-A18S-07,Metastatic,Tumor,III,T0,N2,M0,2329,NA,Alive,2329,white,female,75,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-DA-A1HW-06A-11R-A18U-07,Metastatic,Tumor,III,T1,N1,M0,820,1096,Dead,1096,white,female,37,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-DA-A1HY-06A-11R-A18T-07,Metastatic,Tumor,III,T2,N1,M0,4407,NA,Alive,4407,white,male,42,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-DA-A1I0-06A-11R-A20F-07,Metastatic,Tumor,IV,T4,N3,M1,594,620,Dead,620,white,male,63,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-DA-A1I1-06A-12R-A18U-07,Metastatic,Tumor,III,T0,N2,M0,6768,NA,Alive,6768,white,male,55,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-DA-A1I2-06A-21R-A18U-07,Metastatic,Tumor,III,T4,N2,M0,5088,5370,Dead,5370,white,male,45,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-DA-A1I4-06A-11R-A18U-07,Metastatic,Tumor,III,T3,N2,M0,823,1093,Dead,1093,white,male,51,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-DA-A1I5-06A-11R-A18T-07,Metastatic,Tumor,IV,T1,N0,M1,4107,NA,Alive,4107,white,female,27,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-DA-A1I7-06A-22R-A18S-07,Metastatic,Tumor,III,T0,N2,M0,2703,NA,Alive,2703,white,male,62,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-DA-A1I8-06A-11R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,1368,1640,Dead,1640,white,female,63,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-DA-A1IA-06A-11R-A18S-07,Metastatic,Tumor,III,T2,N1,M0,1887,2005,Dead,2005,white,female,32,"Malignant melanoma, NOS",Frontal lobe
+TCGA-DA-A1IB-06A-11R-A18S-07,Metastatic,Tumor,III,T2,N2,M0,825,1235,Dead,1235,white,female,69,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-DA-A1IC-06A-11R-A18S-07,Metastatic,Tumor,III,T3,N2,M0,1926,2071,Dead,2071,white,male,81,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-DA-A3F2-06A-11R-A20F-07,Metastatic,Tumor,III,T4,N2,M0,1025,1032,Dead,1032,white,male,55,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-DA-A3F3-06A-11R-A20F-07,Metastatic,Tumor,III,T0,N2,M0,151,319,Dead,319,white,male,52,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-DA-A3F5-06A-11R-A20F-07,Metastatic,Tumor,I,T1,N0,M0,6826,6873,Dead,6873,white,male,45,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-DA-A3F8-06A-11R-A20F-07,Metastatic,Tumor,III,T2,N2,M0,1319,NA,Alive,1319,white,male,39,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-DA-A95V-06A-11R-A37K-07,Metastatic,Tumor,II,T4,N0,NA,2193,NA,Alive,2193,white,female,83,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-DA-A95W-06A-11R-A37K-07,Metastatic,Tumor,III,TX,N1,M0,1136,NA,Alive,1136,white,male,52,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-DA-A95X-06A-11R-A37K-07,Metastatic,Tumor,I,T2,N0,M0,2249,NA,Alive,2249,white,male,62,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-DA-A95Y-06A-11R-A37K-07,Metastatic,Tumor,II,T4,N0,M0,302,430,Dead,430,white,male,68,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-DA-A95Z-06A-11R-A37K-07,Metastatic,Tumor,IV,TX,N0,M1,396,NA,Alive,396,white,male,87,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-EB-A44Q-06A-11R-A266-07,Metastatic,Tumor,III,TX,N3,M0,422,NA,Alive,422,asian,female,51,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EB-A44R-06A-41R-A266-07,Metastatic,Tumor,III,TX,N2,M0,309,315,Dead,315,asian,male,52,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EB-A5KH-06A-11R-A27Q-07,Metastatic,Tumor,III,T0,N1,M0,543,619,Dead,619,asian,male,55,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EB-A5SG-06A-11R-A311-07,Metastatic,Tumor,NA,NA,NA,NA,2076,NA,Alive,2076,white,female,57,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EB-A5SH-06A-11R-A311-07,Metastatic,Tumor,III,T4,N0,M0,1643,NA,Alive,1643,white,female,60,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-EB-A5UL-06A-11R-A311-07,Metastatic,Tumor,III,TX,N1,M0,891,NA,Alive,891,white,male,71,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EB-A5UN-06A-11R-A311-07,Metastatic,Tumor,II,T4,NX,M0,1792,NA,Alive,1792,white,male,49,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-EB-A5VV-06A-11R-A32P-07,Metastatic,Tumor,III,T3,N1,M0,214,NA,Alive,214,white,female,74,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EB-A6L9-06A-11R-A32P-07,Metastatic,Tumor,III,TX,N3,M0,1109,NA,Alive,1109,asian,male,55,"Malignant melanoma, NOS",Pelvic lymph nodes
+TCGA-EE-A17X-06A-11R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,NA,907,Dead,907,white,male,54,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A17Y-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N1,M0,NA,828,Dead,828,asian,male,69,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A17Z-06A-11R-A18S-07,Metastatic,Tumor,II,T4,N0,M0,NA,263,Dead,263,white,male,57,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A180-06A-11R-A21D-07,Metastatic,Tumor,III,T4,N0,M0,NA,2889,Dead,2889,white,male,69,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-EE-A181-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,NA,1026,Dead,1026,white,female,82,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A182-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N1,M0,NA,447,Dead,447,white,female,84,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-EE-A183-06A-11R-A18S-07,Metastatic,Tumor,I,Tis,N0,M0,NA,818,Dead,818,white,male,48,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A184-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,2073,Dead,2073,white,male,72,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-EE-A185-06A-11R-A18S-07,Metastatic,Tumor,III,T4,N3,M0,NA,151,Dead,151,white,female,55,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A20B-06A-11R-A18U-07,Metastatic,Tumor,II,T3,N0,M0,4070,NA,Alive,4070,white,female,66,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EE-A20C-06A-11R-A18S-07,Metastatic,Tumor,I,Tis,N0,M0,NA,4601,Dead,4601,white,male,59,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A20F-06A-21R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,2785,NA,Alive,2785,white,male,53,"Malignant melanoma, NOS",Pelvic lymph nodes
+TCGA-EE-A20H-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,5118,Dead,5118,white,male,56,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A20I-06A-11R-A18U-07,Metastatic,Tumor,IV,TX,N0,M1,NA,412,Dead,412,white,male,79,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EE-A29A-06A-12R-A18U-07,Metastatic,Tumor,III,T3,N1,M0,NA,1927,Dead,1927,white,male,68,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of abdomen"
+TCGA-EE-A29B-06A-11R-A18U-07,Metastatic,Tumor,II,T3,N0,M0,2452,2588,Dead,2588,white,male,67,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EE-A29C-06A-21R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,1455,2402,Dead,2402,white,male,20,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A29D-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N1,M0,NA,425,Dead,425,white,male,87,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-EE-A29E-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N1,M0,1940,NA,Alive,1940,white,male,54,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29G-06A-12R-A18T-07,Metastatic,Tumor,III,T4,N2,M0,NA,2192,Dead,2192,white,male,53,"Malignant melanoma, NOS",Skin of scalp and neck
+TCGA-EE-A29H-06A-12R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,1966,NA,Alive,1966,white,female,59,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29L-06A-12R-A18S-07,Metastatic,Tumor,III,T4,N3,M0,NA,79,Dead,79,white,male,78,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29M-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,1729,NA,Alive,1729,white,female,33,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29N-06A-12R-A18S-07,Metastatic,Tumor,Not Reported,TX,N0,M0,NA,566,Dead,566,white,male,78,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29P-06A-11R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,1716,NA,Alive,1716,white,female,73,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29Q-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,1136,2030,Dead,2030,white,female,70,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EE-A29R-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N1,M0,440,NA,Alive,440,white,female,48,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-EE-A29S-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,1701,1864,Dead,1864,white,male,79,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A29T-06A-11R-A18T-07,Metastatic,Tumor,NA,TX,NX,M0,11252,NA,Alive,11252,white,female,51,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-EE-A29V-06A-12R-A18S-07,Metastatic,Tumor,III,T3,N1,M0,NA,787,Dead,787,white,male,85,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A29W-06A-11R-A18U-07,Metastatic,Tumor,I,Tis,N0,M0,5932,NA,Alive,5932,white,male,42,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A29X-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,545,Dead,545,white,female,58,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of head, face, and neck"
+TCGA-EE-A2A0-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,NA,1424,Dead,1424,white,female,77,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2A1-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,3527,NA,Alive,3527,white,male,46,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2A2-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N1,M0,1814,NA,Alive,1814,white,male,71,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2A5-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,1195,Dead,1195,white,male,43,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EE-A2A6-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,2620,NA,Alive,2620,white,male,43,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2GB-06A-11R-A18T-07,Metastatic,Tumor,III,T2,N1,M0,1803,NA,Alive,1803,white,male,51,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2GC-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,2051,NA,Alive,2051,white,male,82,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-EE-A2GD-06A-11R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,9568,10346,Dead,10346,white,female,58,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-EE-A2GE-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,5286,NA,Alive,5286,white,male,44,Amelanotic melanoma,Lymph nodes of axilla or arm
+TCGA-EE-A2GH-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,6699,NA,Alive,6699,white,male,34,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2GI-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,1482,NA,Alive,1482,white,male,39,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2GJ-06A-11R-A18U-07,Metastatic,Tumor,I,T1,N0,M0,2270,2270,Dead,2270,white,male,83,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2GK-06A-11R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,1665,NA,Alive,1665,white,female,46,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2GL-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,2423,NA,Alive,2423,white,female,40,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2GM-06B-11R-A18S-07,Metastatic,Tumor,II,T4,N0,M0,2296,NA,Alive,2296,white,female,70,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-EE-A2GN-06A-11R-A18S-07,Metastatic,Tumor,II,T2,N0,M0,2767,3106,Dead,3106,white,male,67,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-EE-A2GO-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,3857,NA,Alive,3857,white,female,66,Amelanotic melanoma,"Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-EE-A2GP-06A-11R-A18S-07,Metastatic,Tumor,III,T4,N1,M0,NA,423,Dead,423,white,male,80,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2GR-06A-11R-A18S-07,Metastatic,Tumor,II,T4,N0,M0,435,1301,Dead,1301,white,male,78,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EE-A2GS-06A-12R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,1691,2470,Dead,2470,white,female,28,Amelanotic melanoma,"Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-EE-A2GT-06A-12R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,1365,NA,Alive,1365,white,male,77,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2GU-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,2884,NA,Alive,2884,white,female,65,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2M5-06A-12R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,659,Dead,659,white,male,49,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2M6-06A-12R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,3932,NA,Alive,3932,white,male,61,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2M7-06A-11R-A18U-07,Metastatic,Tumor,II,T3,N0,M0,NA,877,Dead,877,white,male,66,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2M8-06A-12R-A18S-07,Metastatic,Tumor,III,T3,N1,M0,NA,601,Dead,601,white,female,54,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2MC-06A-12R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,1871,Dead,1871,white,male,73,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MD-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,NA,1438,Dead,1438,white,male,52,"Malignant melanoma, NOS",Pelvic lymph nodes
+TCGA-EE-A2ME-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,3141,Dead,3141,white,male,51,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2MF-06A-11R-A21D-07,Metastatic,Tumor,I,T2,N0,M0,NA,8174,Dead,8174,white,female,39,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2MG-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,3139,Dead,3139,white,male,23,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MH-06A-11R-A18S-07,Metastatic,Tumor,III,T4,N0,M0,NA,516,Dead,516,white,male,66,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MI-06A-11R-A18U-07,Metastatic,Tumor,II,T4,N0,M0,NA,6225,Dead,6225,white,male,43,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MJ-06A-11R-A18S-07,Metastatic,Tumor,III,T4,N0,M0,NA,2927,Dead,2927,white,male,60,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MK-06A-11R-A18S-07,Metastatic,Tumor,III,T4,N0,M0,5487,NA,Alive,5487,white,female,18,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2ML-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,6176,6590,Dead,6590,white,male,35,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MM-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,5107,Dead,5107,white,female,63,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MN-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,1446,Dead,1446,white,male,58,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MP-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,7563,NA,Alive,7563,white,female,34,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A2MQ-06A-11R-A18S-07,Metastatic,Tumor,III,T3,N2,M0,NA,1315,Dead,1315,white,female,70,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MR-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,4088,NA,Alive,4088,white,male,61,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MS-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,4942,NA,Alive,4942,white,male,72,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MT-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,2166,NA,Alive,2166,white,male,45,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A2MU-06A-21R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,1620,NA,Alive,1620,white,male,71,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EE-A3AA-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N2,M0,3781,NA,Alive,3781,white,male,47,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A3AB-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N2,M0,3733,NA,Alive,3733,white,male,30,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A3AC-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N2,M0,1948,NA,Alive,1948,white,male,47,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A3AD-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N1,M0,112,875,Dead,875,white,male,50,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-EE-A3AE-06A-11R-A18S-07,Metastatic,Tumor,I,T1,N0,M0,1658,NA,Alive,1658,white,female,52,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A3AF-06A-11R-A18S-07,Metastatic,Tumor,III,T0,N3,M0,NA,420,Dead,420,white,female,48,"Malignant melanoma, NOS","Lymph nodes of head, face and neck"
+TCGA-EE-A3AG-06A-31R-A18S-07,Metastatic,Tumor,III,T0,N2,M0,714,1265,Dead,1265,white,male,25,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-EE-A3AH-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,NA,4222,Dead,4222,white,male,30,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-EE-A3J3-06A-11R-A20F-07,Metastatic,Tumor,I,T2,N0,M0,NA,5237,Dead,5237,white,male,42,Amelanotic melanoma,"Connective, subcutaneous and other soft tissues of thorax"
+TCGA-EE-A3J4-06A-11R-A20F-07,Metastatic,Tumor,II,T3,N0,M0,NA,3869,Dead,3869,white,male,72,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of pelvis"
+TCGA-EE-A3J5-06A-11R-A20F-07,Metastatic,Tumor,III,T4,N1,M0,NA,1124,Dead,1124,white,male,71,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EE-A3J7-06A-11R-A20F-07,Metastatic,Tumor,I,T2,N0,M0,1949,NA,Alive,1949,white,male,43,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EE-A3J8-06A-11R-A20F-07,Metastatic,Tumor,III,T4,N1,M0,NA,1044,Dead,1044,white,male,59,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-EE-A3JA-06A-11R-A20F-07,Metastatic,Tumor,I,T2,N0,M0,NA,1618,Dead,1618,white,male,44,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-EE-A3JB-06A-11R-A21D-07,Metastatic,Tumor,III,T3,N1,M0,6138,NA,Alive,6138,white,female,60,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EE-A3JD-06A-11R-A20F-07,Metastatic,Tumor,III,TX,N2,M0,NA,832,Dead,832,white,male,70,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A3JE-06A-11R-A20F-07,Metastatic,Tumor,III,T3,N1,M0,1562,NA,Alive,1562,white,male,75,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-EE-A3JH-06A-11R-A21D-07,Metastatic,Tumor,I,T2,N0,M0,4086,NA,Alive,4086,white,male,54,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-EE-A3JI-06A-11R-A21D-07,Metastatic,Tumor,I,T2,N0,M0,4504,4648,Dead,4648,white,male,48,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-ER-A193-06A-12R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,NA,955,Dead,955,white,male,62,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of head, face, and neck"
+TCGA-ER-A195-06A-11R-A18U-07,Metastatic,Tumor,NA,TX,N0,M0,NA,1078,Dead,1078,white,male,46,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-ER-A197-06A-32R-A18S-07,Metastatic,Tumor,III,T4,N1,M0,NA,424,Dead,424,white,female,83,"Malignant melanoma, NOS","Vulva, NOS"
+TCGA-ER-A198-06A-11R-A18T-07,Metastatic,Tumor,NA,NA,NX,M0,NA,1544,Dead,1544,white,male,45,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-ER-A199-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N3,M0,NA,279,Dead,279,white,female,86,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-ER-A19A-06A-21R-A18U-07,Metastatic,Tumor,IV,TX,N0,M1,2365,NA,Alive,2365,white,male,79,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-ER-A19B-06A-11R-A18S-07,Metastatic,Tumor,NA,TX,N0,M0,NA,2993,Dead,2993,white,male,42,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of trunk, NOS"
+TCGA-ER-A19C-06A-11R-A18S-07,Metastatic,Tumor,I,T2,NX,M0,NA,1487,Dead,1487,white,male,77,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-ER-A19D-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,383,Dead,383,white,female,46,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-ER-A19E-06A-11R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,396,Dead,396,white,female,36,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A19F-06A-11R-A18S-07,Metastatic,Tumor,NA,NA,N0,M0,NA,802,Dead,802,white,male,82,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-ER-A19G-06A-11R-A18U-07,Metastatic,Tumor,NA,NA,N0,M0,9188,NA,Alive,9188,white,female,48,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A19H-06A-12R-A18S-07,Metastatic,Tumor,NA,NA,N0,M0,NA,4634,Dead,4634,white,male,40,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-ER-A19J-06A-11R-A18S-07,Metastatic,Tumor,IV,TX,N3,M1,196,196,Dead,196,white,male,54,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of head, face, and neck"
+TCGA-ER-A19L-06A-12R-A18S-07,Metastatic,Tumor,NA,NA,NA,NA,NA,4000,Dead,4000,white,male,35,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of pelvis"
+TCGA-ER-A19M-06A-61R-A239-07,Metastatic,Tumor,I,T2,N0,M0,NA,1857,Dead,1857,white,male,36,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A19N-06A-11R-A18S-07,Metastatic,Tumor,NA,NA,NA,NA,NA,1341,Dead,1341,white,male,47,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-ER-A19P-06A-11R-A18S-07,Metastatic,Tumor,NA,NA,N0,M0,NA,4930,Dead,4930,white,female,47,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of pelvis"
+TCGA-ER-A19Q-06A-11R-A18U-07,Metastatic,Tumor,NA,NA,N0,M0,NA,1548,Dead,1548,white,female,37,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A19S-06A-11R-A18U-07,Metastatic,Tumor,NA,NA,NA,NA,1505,NA,Alive,1505,white,female,81,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A19T-06A-11R-A18U-07,Metastatic,Tumor,IV,T4,N3,M1,NA,270,Dead,270,white,male,51,"Acral lentiginous melanoma, malignant",Skin of lower limb and hip
+TCGA-ER-A19W-06A-41R-A239-07,Metastatic,Tumor,NA,NA,NA,NA,NA,4507,Dead,4507,white,female,48,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax"
+TCGA-ER-A1A1-06A-11R-A18U-07,Metastatic,Tumor,III,TX,N3,M0,3196,NA,Alive,3196,white,male,58,"Malignant melanoma, NOS",Skin of scalp and neck
+TCGA-ER-A2NC-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,1333,Dead,1333,white,male,50,"Malignant melanoma, NOS","Thorax, NOS"
+TCGA-ER-A2ND-06A-11R-A18T-07,Metastatic,Tumor,III,T1,N3,M0,NA,710,Dead,710,white,female,57,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A2NE-06A-21R-A18T-07,Metastatic,Tumor,I,Tis,N0,M0,NA,613,Dead,613,white,male,39,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-ER-A2NF-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N3,M0,498,877,Dead,877,white,male,53,Nodular melanoma,Skin of scalp and neck
+TCGA-ER-A2NG-06A-11R-A18T-07,Metastatic,Tumor,III,T3,N3,M0,951,1490,Dead,1490,white,female,43,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-ER-A2NH-06A-11R-A18S-07,Metastatic,Tumor,III,T3,N3,M0,1264,NA,Alive,1264,white,male,49,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-ER-A3ES-06A-11R-A20F-07,Metastatic,Tumor,NA,NA,NA,NA,NA,7514,Dead,7514,white,male,25,"Malignant melanoma, NOS","Peritoneum, NOS"
+TCGA-ER-A3ET-06A-11R-A20F-07,Metastatic,Tumor,III,T3,N1,M0,2443,2829,Dead,2829,white,female,64,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-ER-A3EV-06A-11R-A20F-07,Metastatic,Tumor,III,T4,N0,M0,1429,1429,Dead,1429,white,male,55,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-ER-A3PL-06A-11R-A239-07,Metastatic,Tumor,IV,T3,N0,M1,1010,NA,Alive,1010,white,male,30,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-ER-A42K-06A-11R-A24X-07,Metastatic,Tumor,III,T4,N3,M0,206,394,Dead,394,white,female,40,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-ER-A42L-06A-11R-A24X-07,Metastatic,Tumor,II,T3,N0,M0,4533,NA,Alive,4533,white,male,49,"Malignant melanoma, NOS","Adrenal gland, NOS"
+TCGA-FR-A3YN-06A-11R-A239-07,Metastatic,Tumor,I,T2,N0,M0,2828,NA,Alive,2828,white,male,44,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-FR-A44A-06A-11R-A24X-07,Metastatic,Tumor,II,T3,N0,M0,5299,NA,Alive,5299,white,female,29,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-FR-A69P-06A-21R-A311-07,Metastatic,Tumor,III,TX,N3,NA,478,NA,Alive,478,white,female,34,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-FR-A729-06A-11R-A352-07,Metastatic,Tumor,I,T1,N0,M0,6716,NA,Alive,6716,white,female,38,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-FR-A7U8-06A-21R-A352-07,Metastatic,Tumor,III,TX,N3,M0,847,NA,Alive,847,white,male,50,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-FR-A7U9-06A-11R-A352-07,Metastatic,Tumor,III,T3,N3,M0,571,NA,Alive,571,white,female,63,"Malignant melanoma, NOS",Lymph nodes of inguinal region or leg
+TCGA-FR-A7UA-06A-32R-A352-07,Metastatic,Tumor,I,T2,N0,M0,1164,NA,Alive,1164,white,female,65,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-FR-A8YC-06A-11R-A37K-07,Metastatic,Tumor,II,T3,N0,M0,NA,1059,Dead,1059,white,male,78,"Malignant melanoma, NOS","Small intestine, NOS"
+TCGA-FR-A8YD-06A-11R-A37K-07,Metastatic,Tumor,II,T4,N0,M0,896,1103,Dead,1103,white,female,56,"Malignant melanoma, NOS","Lower lobe, lung"
+TCGA-FR-A8YE-06A-11R-A37K-07,Metastatic,Tumor,I,T1,N0,M0,3176,NA,Alive,3176,white,male,41,"Malignant melanoma, NOS",Lymph nodes of axilla or arm
+TCGA-FS-A1YW-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,NA,6598,Dead,6598,white,male,52,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1YX-06A-11R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,NA,1478,Dead,1478,white,female,39,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-FS-A1YY-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,NA,6953,Dead,6953,white,female,55,"Malignant melanoma, NOS","Abdomen, NOS"
+TCGA-FS-A1Z0-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,NA,6164,Dead,6164,white,female,32,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1Z3-06A-11R-A18T-07,Metastatic,Tumor,IV,TX,N0,M1,NA,636,Dead,636,white,female,72,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1Z4-06A-11R-A18T-07,Metastatic,Tumor,I,T1,N0,M0,NA,854,Dead,854,white,male,62,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1Z7-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N1,M0,NA,237,Dead,237,white,male,19,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZA-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N2,M0,NA,843,Dead,843,white,female,45,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZB-06A-12R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,NA,1486,Dead,1486,white,male,57,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZC-06A-11R-A18T-07,Metastatic,Tumor,Not Reported,TX,N0,M0,NA,10870,Dead,10870,white,male,51,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1ZD-06A-11R-A18T-07,Metastatic,Tumor,II,T2,N0,M0,NA,1628,Dead,1628,white,male,63,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZE-06A-11R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,1225,1413,Dead,1413,white,male,40,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1ZF-06A-12R-A18S-07,Metastatic,Tumor,II,T4,N0,M0,NA,470,Dead,470,white,female,78,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZG-06A-11R-A18T-07,Metastatic,Tumor,III,T4,N2,M0,NA,295,Dead,295,white,female,60,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZH-06A-11R-A18T-07,Metastatic,Tumor,IV,T3,N2,M1,NA,996,Dead,996,white,female,71,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZJ-06A-12R-A18S-07,Metastatic,Tumor,I,T2,N0,M0,NA,1441,Dead,1441,white,female,75,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZK-06A-11R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,NA,728,Dead,728,white,male,68,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1ZM-06A-12R-A18S-07,Metastatic,Tumor,III,T2,N2,M0,3080,NA,Alive,3080,white,male,74,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZP-06A-11R-A18T-07,Metastatic,Tumor,II,T3,N0,M0,NA,2273,Dead,2273,white,male,52,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZQ-06A-11R-A18U-07,Metastatic,Tumor,Not Reported,TX,N0,M0,NA,4062,Dead,4062,white,male,31,"Malignant melanoma, NOS","Lung, NOS"
+TCGA-FS-A1ZR-06A-21R-A18U-07,Metastatic,Tumor,II,T2,N0,M0,NA,347,Dead,347,white,male,36,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZS-06A-12R-A18T-07,Metastatic,Tumor,I,T2,N0,M0,4526,NA,Alive,4526,white,male,54,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZT-06A-11R-A18U-07,Metastatic,Tumor,III,T2,N1,M0,1617,NA,Alive,1617,white,male,55,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZU-06A-12R-A18T-07,Metastatic,Tumor,II,T4,N0,M0,NA,808,Dead,808,white,female,70,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1ZW-06A-12R-A18T-07,Metastatic,Tumor,III,T2,N1,M0,1505,NA,Alive,1505,white,male,65,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A1ZY-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,NA,824,Dead,824,white,male,71,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-FS-A1ZZ-06A-11R-A18S-07,Metastatic,Tumor,II,T3,N0,M0,NA,822,Dead,822,white,female,54,"Malignant melanoma, NOS","Lymph node, NOS"
+TCGA-FS-A4F0-06A-11R-A24X-07,Metastatic,Tumor,II,T4,N0,M0,2367,NA,Alive,2367,white,female,67,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS"
+TCGA-BF-A1PU-01A-11R-A18S-07,Primary Tumor,Tumor,II,T4,N0,M0,387,NA,Alive,387,white,female,46,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A1PV-01A-11R-A18U-07,Primary Tumor,Tumor,II,T4,N0,M0,14,NA,Alive,14,white,female,74,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A1PX-01A-12R-A18T-07,Primary Tumor,Tumor,III,T4,N2,M0,NA,282,Dead,282,white,male,56,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A1PZ-01A-11R-A18S-07,Primary Tumor,Tumor,II,T4,N0,M0,853,NA,Alive,853,white,female,71,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A1Q0-01A-21R-A18S-07,Primary Tumor,Tumor,II,T4,N0,M0,831,NA,Alive,831,white,male,80,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A3DJ-01A-11R-A20F-07,Primary Tumor,Tumor,III,T4,N1,M0,464,NA,Alive,464,white,female,36,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A3DL-01A-11R-A20F-07,Primary Tumor,Tumor,III,T3,N2,M0,769,NA,Alive,769,white,female,84,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A3DM-01A-11R-A20F-07,Primary Tumor,Tumor,II,T2,N0,M0,601,NA,Alive,601,white,male,63,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A3DN-01A-11R-A20F-07,Primary Tumor,Tumor,III,T3,N3,M0,717,NA,Alive,717,white,female,81,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-BF-A5EO-01A-12R-A27Q-07,Primary Tumor,Tumor,II,T4,N0,M0,703,NA,Alive,703,white,male,65,"Malignant melanoma, NOS",Skin of trunk
+TCGA-BF-A5EP-01A-12R-A27Q-07,Primary Tumor,Tumor,III,T4,N3,M0,335,NA,Alive,335,white,female,75,"Malignant melanoma, NOS",Skin of trunk
+TCGA-BF-A5EQ-01A-21R-A27Q-07,Primary Tumor,Tumor,II,T4,N0,M0,323,NA,Alive,323,white,male,63,"Malignant melanoma, NOS",Skin of trunk
+TCGA-BF-A5ER-01A-12R-A27Q-07,Primary Tumor,Tumor,II,T4,N0,M0,327,NA,Alive,327,white,male,63,"Malignant melanoma, NOS",Skin of trunk
+TCGA-BF-A5ES-01A-11R-A27Q-07,Primary Tumor,Tumor,II,T4,N0,M0,490,NA,Alive,490,white,female,76,"Malignant melanoma, NOS",Skin of trunk
+TCGA-BF-A9VF-01A-11R-A37K-07,Primary Tumor,Tumor,II,T4,N0,M0,440,NA,Alive,440,white,male,77,Mixed epithelioid and spindle cell melanoma,"Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-BF-AAOU-01A-12R-A39D-07,Primary Tumor,Tumor,II,T4,N0,M0,476,NA,Alive,476,white,female,73,Amelanotic melanoma,Skin of trunk
+TCGA-BF-AAOX-01A-11R-A39D-07,Primary Tumor,Tumor,II,T4,N0,M0,444,NA,Alive,444,white,male,83,Epithelioid cell melanoma,Skin of upper limb and shoulder
+TCGA-BF-AAP1-01A-11R-A39D-07,Primary Tumor,Tumor,II,T4,N0,M0,409,NA,Alive,409,white,male,86,Epithelioid cell melanoma,Skin of upper limb and shoulder
+TCGA-BF-AAP2-01A-11R-A40A-07,Primary Tumor,Tumor,II,T3,N0,M0,405,NA,Alive,405,white,male,62,Epithelioid cell melanoma,Skin of upper limb and shoulder
+TCGA-BF-AAP4-01A-11R-A40A-07,Primary Tumor,Tumor,II,T4,N0,M0,335,NA,Alive,335,white,male,61,Epithelioid cell melanoma,Skin of trunk
+TCGA-BF-AAP6-01A-11R-A40A-07,Primary Tumor,Tumor,III,T4,N2,M0,325,NA,Alive,325,white,male,55,Epithelioid cell melanoma,Skin of lower limb and hip
+TCGA-BF-AAP7-01A-11R-A40A-07,Primary Tumor,Tumor,II,T4,N0,M0,318,NA,Alive,318,white,female,76,Epithelioid cell melanoma,Skin of lower limb and hip
+TCGA-BF-AAP8-01A-11R-A40A-07,Primary Tumor,Tumor,II,T4,N0,M0,447,NA,Alive,447,white,male,58,Epithelioid cell melanoma,Skin of upper limb and shoulder
+TCGA-D3-A5GT-01A-12R-A311-07,Primary Tumor,Tumor,III,T2,N3,M0,487,NA,Alive,487,white,male,43,"Malignant melanoma, NOS",Skin of trunk
+TCGA-D9-A3Z4-01A-11R-A239-07,Primary Tumor,Tumor,III,T4,N3,M0,119,519,Dead,519,white,male,54,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-D9-A4Z2-01A-11R-A24X-07,Primary Tumor,Tumor,III,T4,N3,M0,93,190,Dead,190,white,male,50,Nodular melanoma,Skin of trunk
+TCGA-D9-A4Z3-01A-11R-A266-07,Primary Tumor,Tumor,III,T4,N1,M0,505,NA,Alive,505,white,female,73,Nodular melanoma,Skin of upper limb and shoulder
+TCGA-D9-A4Z5-01A-11R-A266-07,Primary Tumor,Tumor,II,T4,N0,M0,218,NA,Alive,218,white,male,68,"Malignant melanoma, NOS",Nasal cavity
+TCGA-DA-A960-01A-11R-A37K-07,Primary Tumor,Tumor,II,T3,N0,M0,804,NA,Alive,804,white,male,73,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-EB-A1NK-01A-11R-A18T-07,Primary Tumor,Tumor,II,T4,N0,M0,1039,NA,Alive,1039,white,male,48,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A24C-01A-11R-A18T-07,Primary Tumor,Tumor,NA,T4,NX,M0,632,NA,Alive,632,white,male,56,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A24D-01A-11R-A18T-07,Primary Tumor,Tumor,III,T4,N2,M0,645,NA,Alive,645,white,male,72,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-EB-A299-01A-21R-A18U-07,Primary Tumor,Tumor,II,T2,N0,M0,378,NA,Alive,378,white,male,63,Nodular melanoma,"Skin, NOS"
+TCGA-EB-A3HV-01A-11R-A21D-07,Primary Tumor,Tumor,II,T4,N0,M0,39,NA,Alive,39,white,male,37,Nodular melanoma,"Skin, NOS"
+TCGA-EB-A3XB-01A-11R-A239-07,Primary Tumor,Tumor,II,T4,NX,M0,796,NA,Alive,796,white,male,63,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A3XC-01A-11R-A239-07,Primary Tumor,Tumor,II,T4,N0,M0,650,NA,Alive,650,white,male,74,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A3XD-01A-22R-A239-07,Primary Tumor,Tumor,II,T4,NX,M0,1160,NA,Alive,1160,white,female,53,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A3XE-01A-12R-A239-07,Primary Tumor,Tumor,II,T3,N0,M0,180,NA,Alive,180,white,female,77,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A3XF-01A-31R-A239-07,Primary Tumor,Tumor,II,T4,N0,M0,278,NA,Alive,278,white,male,57,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A3Y6-01A-21R-A239-07,Primary Tumor,Tumor,II,T4,N0,M0,126,NA,Alive,126,white,female,56,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip"
+TCGA-EB-A3Y7-01A-11R-A239-07,Primary Tumor,Tumor,III,T3,N2,M0,0,326,Dead,326,white,female,86,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of head, face, and neck"
+TCGA-EB-A41B-01A-11R-A24X-07,Primary Tumor,Tumor,II,T4,N0,M0,291,NA,Alive,291,white,female,76,Nodular melanoma,Skin of upper limb and shoulder
+TCGA-EB-A42Y-01A-12R-A24X-07,Primary Tumor,Tumor,II,T4,N0,M0,440,721,Dead,721,asian,female,73,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-EB-A42Z-01A-12R-A24X-07,Primary Tumor,Tumor,III,T4,N1,M0,441,NA,Alive,441,asian,male,49,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A431-01A-11R-A266-07,Primary Tumor,Tumor,II,T4,N0,M0,568,NA,Alive,568,white,male,34,Nodular melanoma,"Skin, NOS"
+TCGA-EB-A44N-01A-11R-A266-07,Primary Tumor,Tumor,II,T4,N0,M0,45,205,Dead,205,white,male,59,Nodular melanoma,"Skin, NOS"
+TCGA-EB-A44O-01A-11R-A266-07,Primary Tumor,Tumor,II,T4,N0,M0,81,NA,Alive,81,white,male,69,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A44P-01A-11R-A266-07,Primary Tumor,Tumor,II,T4,N0,M0,741,NA,Alive,741,white,female,58,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A4IQ-01A-12R-A266-07,Primary Tumor,Tumor,III,T4,N1,M0,414,636,Dead,636,asian,female,42,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A4IS-01A-21R-A266-07,Primary Tumor,Tumor,II,T3,NX,M0,774,NA,Alive,774,white,male,77,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A4OY-01A-11R-A266-07,Primary Tumor,Tumor,III,T4,N1,M0,977,NA,Alive,977,white,female,65,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A4OZ-01A-12R-A266-07,Primary Tumor,Tumor,III,T4,N3,M0,620,NA,Alive,620,white,female,41,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A4P0-01A-41R-A266-07,Primary Tumor,Tumor,II,T4,N0,M0,-2,326,Dead,326,white,male,82,Amelanotic melanoma,Skin of trunk
+TCGA-EB-A4XL-01A-11R-A27Q-07,Primary Tumor,Tumor,II,T4,NX,M0,777,NA,Alive,777,white,female,56,Nodular melanoma,"Skin, NOS"
+TCGA-EB-A51B-01A-11R-A27Q-07,Primary Tumor,Tumor,II,T4,NX,M0,931,NA,Alive,931,white,male,53,"Malignant melanoma, NOS",Skin of upper limb and shoulder
+TCGA-EB-A550-01A-61R-A27Q-07,Primary Tumor,Tumor,II,T4,NX,M0,6,264,Dead,264,white,female,75,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A551-01A-21R-A27Q-07,Primary Tumor,Tumor,III,T4,N2,M0,590,NA,Alive,590,white,female,78,Amelanotic melanoma,Skin of lower limb and hip
+TCGA-EB-A553-01A-12R-A27Q-07,Primary Tumor,Tumor,II,T4,N0,M0,226,NA,Alive,226,white,male,62,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A57M-01A-51R-A311-07,Primary Tumor,Tumor,III,T4,N1,M0,399,472,Dead,472,asian,male,56,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A5FP-01A-11R-A27Q-07,Primary Tumor,Tumor,IV,T4,NX,M1,6,454,Dead,454,white,female,65,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A5SE-01A-11R-A311-07,Primary Tumor,Tumor,II,T3,NX,M0,0,401,Dead,401,white,male,73,Nodular melanoma,Skin of trunk
+TCGA-EB-A5SF-01A-11R-A311-07,Primary Tumor,Tumor,II,T4,NX,M0,0,369,Dead,369,white,female,78,Nodular melanoma,"Skin, NOS"
+TCGA-EB-A5UM-01A-11R-A311-07,Primary Tumor,Tumor,II,T4,N0,M0,779,NA,Alive,779,white,female,48,"Malignant melanoma, NOS",Skin of trunk
+TCGA-EB-A5VU-01A-21R-A32P-07,Primary Tumor,Tumor,III,T4,N1,M0,12,321,Dead,321,asian,male,56,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A6QY-01A-12R-A32P-07,Primary Tumor,Tumor,II,T4,N0,M0,382,NA,Alive,382,white,male,71,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A6QZ-01A-12R-A32P-07,Primary Tumor,Tumor,II,T3,N0,M0,-3,352,Dead,352,white,female,76,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A6R0-01A-12R-A32P-07,Primary Tumor,Tumor,II,T4,N0,M0,467,608,Dead,608,white,female,58,"Malignant melanoma, NOS","Skin, NOS"
+TCGA-EB-A82B-01A-11R-A352-07,Primary Tumor,Tumor,III,T4,N2,M0,390,NA,Alive,390,asian,female,58,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A82C-01A-11R-A352-07,Primary Tumor,Tumor,II,T4,N0,M0,17,NA,Alive,17,asian,female,70,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A85I-01A-11R-A352-07,Primary Tumor,Tumor,II,T4,N0,M0,362,NA,Alive,362,white,male,66,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A85J-01A-12R-A352-07,Primary Tumor,Tumor,II,T4,N0,M0,360,NA,Alive,360,white,female,66,"Malignant melanoma, NOS",Skin of lower limb and hip
+TCGA-EB-A97M-01A-11R-A38C-07,Primary Tumor,Tumor,II,T4,N0,M0,414,NA,Alive,414,white,male,66,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A194-01A-11R-A18U-07,Primary Tumor,Tumor,NA,NA,N0,M0,NA,1354,Dead,1354,white,male,77,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of upper limb and shoulder"
+TCGA-ER-A196-01A-11R-A18T-07,Primary Tumor,Tumor,II,T4,N0,M0,1785,NA,Alive,1785,white,female,64,"Acral lentiginous melanoma, malignant",Skin of lower limb and hip
+TCGA-ER-A19K-01A-21R-A18T-07,Primary Tumor,Tumor,II,T4,N0,M0,NA,469,Dead,469,white,female,79,"Malignant melanoma, NOS",Skin of scalp and neck
+TCGA-ER-A19T-01A-11R-A18T-07,Primary Tumor,Tumor,IV,T4,N3,M1,NA,270,Dead,270,white,male,51,"Acral lentiginous melanoma, malignant",Skin of lower limb and hip
+TCGA-ER-A2NB-01A-12R-A18S-07,Primary Tumor,Tumor,III,T4,N2,M0,486,857,Dead,857,white,male,57,"Malignant melanoma, NOS",Skin of trunk
+TCGA-ER-A2NF-01A-11R-A18T-07,Primary Tumor,Tumor,III,T3,N3,M0,498,877,Dead,877,white,male,53,Nodular melanoma,Skin of scalp and neck
+TCGA-ER-A42H-01A-11R-A24X-07,Primary Tumor,Tumor,NA,NA,NA,NA,NA,426,Dead,426,white,male,76,"Malignant melanoma, NOS","Overlapping lesion of rectum, anus and anal canal"
