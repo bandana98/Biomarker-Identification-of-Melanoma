@@ -1,0 +1,727 @@
+gene_symbol,cell_type
+ADAM28,B cell
+CD180,B cell
+CD79B,B cell
+BLK,B cell
+CD19,B cell
+MS4A1,B cell
+TNFRSF17,B cell
+IGHM,B cell
+GNG7,B cell
+MICAL3,B cell
+SPIB,B cell
+HLA-DOB,B cell
+IGKC,B cell
+PNOC,B cell
+FCRL2,B cell
+BACH2,B cell
+CR2,B cell
+TCL1A,B cell
+AKNA,B cell
+ARHGAP25,B cell
+CCL21,B cell
+CD27,B cell
+CD38,B cell
+CLEC17A,B cell
+CLEC9A,B cell
+CLECL1,B cell
+AIM2,CD4 T cell
+BIRC3,CD4 T cell
+BRIP1,CD4 T cell
+CCL20,CD4 T cell
+CCL4,CD4 T cell
+CCL5,CD4 T cell
+CCNB1,CD4 T cell
+CCR7,CD4 T cell
+DUSP2,CD4 T cell
+ESCO2,CD4 T cell
+ETS1,CD4 T cell
+EXO1,CD4 T cell
+EXOC6,CD4 T cell
+IARS,CD4 T cell
+ITK,CD4 T cell
+KIF11,CD4 T cell
+KNTC1,CD4 T cell
+NUF2,CD4 T cell
+PRC1,CD4 T cell
+PSAT1,CD4 T cell
+RGS1,CD4 T cell
+RTKN2,CD4 T cell
+SAMSN1,CD4 T cell
+SELL,CD4 T cell
+TRAT1,CD4 T cell
+ADRM1,CD8 T cell
+AHSA1,CD8 T cell
+C1GALT1C1,CD8 T cell
+CCT6B,CD8 T cell
+CD37,CD8 T cell
+CD3D,CD8 T cell
+CD3E,CD8 T cell
+CD3G,CD8 T cell
+CD69,CD8 T cell
+CD8A,CD8 T cell
+CETN3,CD8 T cell
+CSE1L,CD8 T cell
+GEMIN6,CD8 T cell
+GNLY,CD8 T cell
+GPT2,CD8 T cell
+GZMA,CD8 T cell
+GZMH,CD8 T cell
+GZMK,CD8 T cell
+IL2RB,CD8 T cell
+LCK,CD8 T cell
+MPZL1,CD8 T cell
+NKG7,CD8 T cell
+PIK3IP1,CD8 T cell
+PTRH2,CD8 T cell
+TIMM13,CD8 T cell
+ZAP70,CD8 T cell
+ABHD3,CD4 T cell
+AHNAK,CD4 T cell
+ANXA2P2,CD4 T cell
+AQP3,CD4 T cell
+ATHL1,CD4 T cell
+BMI1,CD4 T cell
+BZW2,CD4 T cell
+CD63,CD4 T cell
+COL4A1,CD4 T cell
+CYLD,CD4 T cell
+ELMO2,CD4 T cell
+FYN,CD4 T cell
+GLIPR1,CD4 T cell
+GSS,CD4 T cell
+IFITM2,CD4 T cell
+ITGB1,CD4 T cell
+ITGB2,CD4 T cell
+KLF5,CD4 T cell
+LSP1,CD4 T cell
+NDUFB9,CD4 T cell
+PKM2,CD4 T cell
+SFXN3,CD4 T cell
+SIRPG,CD4 T cell
+SMAD4,CD4 T cell
+STX4,CD4 T cell
+TRADD,CD4 T cell
+VIM,CD4 T cell
+XRCC6,CD4 T cell
+ACTN4,CD8 T cell
+ADAM12,CD8 T cell
+ADCY9,CD8 T cell
+F13A1,CD8 T cell
+FCER1G,CD8 T cell
+FCGR3B,CD8 T cell
+FGF7,CD8 T cell
+FKBP4,CD8 T cell
+GLUD1,CD8 T cell
+GM2A,CD8 T cell
+GUSB,CD8 T cell
+IL1RN,CD8 T cell
+NOL11,CD8 T cell
+NTRK1,CD8 T cell
+RARA,CD8 T cell
+RNF128,CD8 T cell
+SIGLEC1,CD8 T cell
+TNFRSF11A,CD8 T cell
+TOX4,CD8 T cell
+UBA52,CD8 T cell
+ULBP1,CD8 T cell
+ATM,CD4 T cell
+CASP3,CD4 T cell
+CASQ1,CD4 T cell
+CD300E,CD4 T cell
+DARS,CD4 T cell
+DOCK9,CD4 T cell
+EXOSC9,CD4 T cell
+EZH2,CD4 T cell
+GDE1,CD4 T cell
+IL34,CD4 T cell
+NCOA4,CD4 T cell
+NEFL,CD4 T cell
+PDGFRL,CD4 T cell
+PTGS1,CD4 T cell
+REPS1,CD4 T cell
+SCG2,CD4 T cell
+SDPR,CD4 T cell
+SIGLEC14,CD4 T cell
+SIGLEC6,CD4 T cell
+TAL1,CD4 T cell
+TFEC,CD4 T cell
+TIPIN,CD4 T cell
+TPK1,CD4 T cell
+UQCRB,CD4 T cell
+USP9Y,CD4 T cell
+WIPF1,CD4 T cell
+ZCRB1,CD4 T cell
+ACAP1,CD8 T cell
+APOL3,CD8 T cell
+ARHGAP10,CD8 T cell
+ATP10D,CD8 T cell
+C3AR1,CD8 T cell
+CCR5,CD8 T cell
+CD160,CD8 T cell
+CD55,CD8 T cell
+CFLAR,CD8 T cell
+CMKLR1,CD8 T cell
+DAPP1,CD8 T cell
+FCRL6,CD8 T cell
+FLT3LG,CD8 T cell
+GZMM,CD8 T cell
+HAPLN3,CD8 T cell
+HLA-DMB,CD8 T cell
+HLA-DPA1,CD8 T cell
+HLA-DPB1,CD8 T cell
+IFI16,CD8 T cell
+LIME1,CD8 T cell
+LTK,CD8 T cell
+NFKBIA,CD8 T cell
+SETD7,CD8 T cell
+SIK1,CD8 T cell
+TRIB2,CD8 T cell
+ACP5,Gamma delta T cell
+AQP9,Gamma delta T cell
+BTN3A2,Gamma delta T cell
+C1orf54,Gamma delta T cell
+CARD8,Gamma delta T cell
+CCL18,Gamma delta T cell
+CD209,Gamma delta T cell
+CD33,Gamma delta T cell
+CD36,Gamma delta T cell
+CDK5,Gamma delta T cell
+IL10RB,Gamma delta T cell
+KLRF1,Gamma delta T cell
+LGALS1,Gamma delta T cell
+MAPK7,Gamma delta T cell
+KLHL7,Gamma delta T cell
+KRT80,Gamma delta T cell
+LAMC1,Gamma delta T cell
+LCORL,Gamma delta T cell
+LMNB1,Gamma delta T cell
+MEIS3P1,Gamma delta T cell
+MPL,Gamma delta T cell
+FABP1,Gamma delta T cell
+FABP5,Gamma delta T cell
+FADD,Gamma delta T cell
+MFAP3L,Gamma delta T cell
+MINPP1,Gamma delta T cell
+RPS24,Gamma delta T cell
+RPS7,Gamma delta T cell
+RPS9,Gamma delta T cell
+DBNL,Gamma delta T cell
+CCL13,Gamma delta T cell
+CD22,B cell
+CYBB,B cell
+FAM129C,B cell
+FCRL1,B cell
+FCRL3,B cell
+FCRL5,B cell
+FCRLA,B cell
+HDAC9,B cell
+HLA-DQA1,B cell
+HVCN1,B cell
+KIAA0226,B cell
+NCF1,B cell
+NCF1B,B cell
+P2RY10,B cell
+SP100,B cell
+TXNIP,B cell
+STAP1,B cell
+TAGAP,B cell
+ZCCHC2,B cell
+AICDA,B cell
+CCNA2,B cell
+CDKN3,B cell
+CLCN5,B cell
+ENPP1,B cell
+FCER1A,B cell
+FCRL4,B cell
+MYC,B cell
+RUNX2,B cell
+SORL1,B cell
+SOX5,B cell
+STAT5A,B cell
+STAT5B,B cell
+TLR9,B cell
+CCL3L1,Treg cell
+CD72,Treg cell
+CLEC5A,Treg cell
+FOXP3,Treg cell
+ITGA4,Treg cell
+L1CAM,Treg cell
+LIPA,Treg cell
+LRP1,Treg cell
+LRRC42,Treg cell
+MARCO,Treg cell
+MMP12,Treg cell
+MNDA,Treg cell
+MRC1,Treg cell
+MS4A6A,Treg cell
+PELO,Treg cell
+PLEK,Treg cell
+PRSS23,Treg cell
+PTGIR,Treg cell
+ST8SIA4,Treg cell
+STAB1,Treg cell
+B3GAT1,T folicular helper cell
+CDK5R1,T folicular helper cell
+PDCD1,T folicular helper cell
+BCL6,T folicular helper cell
+CD200,T folicular helper cell
+CD83,T folicular helper cell
+CD84,T folicular helper cell
+FGF2,T folicular helper cell
+GPR18,T folicular helper cell
+CEBPA,T folicular helper cell
+CECR1,T folicular helper cell
+CLEC10A,T folicular helper cell
+CLEC4A,T folicular helper cell
+CSF1R,T folicular helper cell
+CTSS,T folicular helper cell
+DMN,T folicular helper cell
+DPP4,T folicular helper cell
+LRRC32,T folicular helper cell
+MC5R,T folicular helper cell
+MICA,T folicular helper cell
+NCAM1,T folicular helper cell
+NCR2,T folicular helper cell
+NRP1,T folicular helper cell
+PDCD1LG2,T folicular helper cell
+PDCD6,T folicular helper cell
+PRDX1,T folicular helper cell
+RAE1,T folicular helper cell
+RAET1E,T folicular helper cell
+SIGLEC7,T folicular helper cell
+SIGLEC9,T folicular helper cell
+TYRO3,T folicular helper cell
+CHST12,T folicular helper cell
+CLIC3,T folicular helper cell
+IVNS1ABP,T folicular helper cell
+KIR2DL2,T folicular helper cell
+LGMN,T folicular helper cell
+CD70,T helper cell
+TBX21,T helper cell
+ADAM8,T helper cell
+AHCYL2,T helper cell
+ALCAM,T helper cell
+B3GALNT1,T helper cell
+BBS12,T helper cell
+BST1,T helper cell
+CD151,T helper cell
+CD47,T helper cell
+CD48,T helper cell
+CD52,T helper cell
+CD53,T helper cell
+CD59,T helper cell
+CD6,T helper cell
+CD68,T helper cell
+CD7,T helper cell
+CD96,T helper cell
+CFHR3,T helper cell
+CHRM3,T helper cell
+CLEC7A,T helper cell
+COL23A1,T helper cell
+COL4A4,T helper cell
+COL5A3,T helper cell
+DAB1,T helper cell
+DLEU7,T helper cell
+DOC2B,T helper cell
+EMP1,T helper cell
+F12,T helper cell
+FURIN,T helper cell
+GAB3,T helper cell
+GATM,T helper cell
+GFPT2,T helper cell
+GPR25,T helper cell
+GREM2,T helper cell
+HAVCR1,T helper cell
+HSD11B1,T helper cell
+HUNK,T helper cell
+IGF2,T helper cell
+RCSD1,T helper cell
+RYR1,T helper cell
+SAV1,T helper cell
+SELE,T helper cell
+SELP,T helper cell
+SH3KBP1,T helper cell
+SIT1,T helper cell
+SLC35B3,T helper cell
+SIGLEC10,T helper cell
+SKAP1,T helper cell
+THUMPD2,T helper cell
+TIGIT,T helper cell
+ZEB2,T helper cell
+ENC1,T helper cell
+FAM134B,T helper cell
+FBXO30,T helper cell
+FCGR2C,T helper cell
+STAC,T helper cell
+LTC4S,T helper cell
+MAN1B1,T helper cell
+MDH1,T helper cell
+MMD,T helper cell
+RGS16,T helper cell
+IL12A,T helper cell
+P2RX5,T helper cell
+CD97,T helper cell
+ITGB4,T helper cell
+ICAM3,T helper cell
+METRNL,T helper cell
+TNFRSF1A,T helper cell
+IRF1,T helper cell
+HTR2B,T helper cell
+CALD1,T helper cell
+MOCOS,T helper cell
+TRAF3IP2,T helper cell
+TLR8,T helper cell
+TRAF1,T helper cell
+DUSP14,T helper cell
+IL17A,T helper cell
+IL17RA,T helper cell
+C2CD4A,T helper cell
+C2CD4B,T helper cell
+CA2,T helper cell
+CCDC65,T helper cell
+CEACAM3,T helper cell
+IL17C,T helper cell
+IL17F,T helper cell
+IL17RC,T helper cell
+IL17RE,T helper cell
+IL23A,T helper cell
+ILDR1,T helper cell
+LONRF3,T helper cell
+SH2D6,T helper cell
+TNIP2,T helper cell
+ABCA1,T helper cell
+ABCB1,T helper cell
+ADAMTS12,T helper cell
+ANK1,T helper cell
+ANKRD22,T helper cell
+B3GALT2,T helper cell
+CAMTA1,T helper cell
+CCR9,T helper cell
+CD40,T helper cell
+GPR44,T helper cell
+IFT80,T helper cell
+ASB2,T helper cell
+CSRP2,T helper cell
+DAPK1,T helper cell
+DLC1,T helper cell
+DNAJC12,T helper cell
+DUSP6,T helper cell
+GNAI1,T helper cell
+LAMP3,T helper cell
+NRP2,T helper cell
+OSBPL1A,T helper cell
+PDE4B,T helper cell
+PHLDA1,T helper cell
+PLA2G4A,T helper cell
+RAB27B,T helper cell
+RBMS3,T helper cell
+RNF125,T helper cell
+TMPRSS3,T helper cell
+GATA3,T helper cell
+BIRC5,T helper cell
+CDC25C,T helper cell
+CDC7,T helper cell
+CENPF,T helper cell
+CXCR6,T helper cell
+DHFR,T helper cell
+EVI5,T helper cell
+GSTA4,T helper cell
+HELLS,T helper cell
+IL26,T helper cell
+LAIR2,T helper cell
+ABCD1,Dendritic cells
+C1QC,Dendritic cells
+CAPG,Dendritic cells
+CCL3L3,Dendritic cells
+CD207,Dendritic cells
+CD302,Dendritic cells
+ATP5B,Dendritic cells
+ATP5L,Dendritic cells
+ATP6V1A,Dendritic cells
+BCL2L1,Dendritic cells
+C1QB,Dendritic cells
+SNURF,Dendritic cells
+SPCS3,Dendritic cells
+CCNA1,Dendritic cells
+CEACAM8,Dendritic cells
+NOS2,Dendritic cells
+SRA1,Dendritic cells
+TNFRSF6B,Dendritic cells
+TREM1,Dendritic cells
+TREML1,Dendritic cells
+RHOA,Dendritic cells
+SLC25A37,Dendritic cells
+TNFSF14,Dendritic cells
+TREML4,Dendritic cells
+VNN2,Dendritic cells
+XPO6,Dendritic cells
+CLEC4C,Dendritic cells
+TNFAIP2,Dendritic cells
+UBD,Dendritic cells
+ACTR3,Dendritic cells
+RAB1A,Dendritic cells
+SLA,Dendritic cells
+HLA-DQA2,Dendritic cells
+SIGLEC5,Dendritic cells
+SLAMF9,Dendritic cells
+GIPR,Eosinophil
+KRT18P50,Eosinophil
+LRMP,Eosinophil
+FOSB,Eosinophil
+RRP12,Eosinophil
+GPR183,Eosinophil
+NR4A3,Eosinophil
+ST3GAL6,Eosinophil
+DEPDC5,Eosinophil
+PDE6C,Eosinophil
+PKD2L2,Eosinophil
+GPR65,Eosinophil
+IL5RA,Eosinophil
+P2RY14,Eosinophil
+DACH1,Eosinophil
+DAPK2,Eosinophil
+EMR3,Eosinophil
+ACADM,Dentritic cells
+AHCYL1,Dentritic cells
+ALDH1A2,Dentritic cells
+ALDH3A2,Dentritic cells
+ALDH9A1,Dentritic cells
+ALOX15,Dentritic cells
+AMT,Dentritic cells
+ARL1,Dentritic cells
+ATIC,Dentritic cells
+ATP5A1,Dentritic cells
+CAPZA1,Dentritic cells
+LILRA5,Dentritic cells
+RDX,Dentritic cells
+RRAGD,Dentritic cells
+TACSTD2,Dentritic cells
+INPP5F,Dentritic cells
+RAB38,Dentritic cells
+PLAU,Dentritic cells
+CSF3R,Dentritic cells
+SLC18A2,Dentritic cells
+AMPD2,Dentritic cells
+CLTB,Dentritic cells
+C1orf162,Dentritic cells
+AIF1,Macrophage
+CCL1,Macrophage
+CCL14,Macrophage
+CCL23,Macrophage
+CCL26,Macrophage
+CD300LB,Macrophage
+CNR1,Macrophage
+CNR2,Macrophage
+EIF1,Macrophage
+EIF4A1,Macrophage
+FPR1,Macrophage
+FPR2,Macrophage
+FRAT2,Macrophage
+GPR27,Macrophage
+GPR77,Macrophage
+RNASE2,Macrophage
+MS4A2,Macrophage
+BASP1,Macrophage
+IGSF6,Macrophage
+HK3,Macrophage
+VNN1,Macrophage
+FES,Macrophage
+NPL,Macrophage
+FZD2,Macrophage
+FAM198B,Macrophage
+HNMT,Macrophage
+SLC15A3,Macrophage
+CD4,Macrophage
+TXNDC3,Macrophage
+FRMD4A,Macrophage
+CRYBB1,Macrophage
+HRH1,Macrophage
+WNT5B,Macrophage
+ADAMTS3,Mast cell
+CPA3,Mast cell
+CMA1,Mast cell
+CTSG,Mast cell
+ARHGAP15,Mast cell
+CPM,Mast cell
+FCN1,Mast cell
+FTL,Mast cell
+HSPA6,Mast cell
+ITGA9,Mast cell
+RNASE3,Mast cell
+S100A4,Mast cell
+SIGLEC8,Mast cell
+SLC6A4,Mast cell
+PTGS2,Mast cell
+EGR3,Mast cell
+PILRA,Mast cell
+CCR2,MDSC
+CD14,MDSC
+CD2,MDSC
+CD86,MDSC
+CXCR4,MDSC
+FCGR2A,MDSC
+FCGR2B,MDSC
+FCGR3A,MDSC
+FERMT3,MDSC
+GPSM3,MDSC
+IL18BP,MDSC
+IL4R,MDSC
+ITGAL,MDSC
+ITGAM,MDSC
+PARVG,MDSC
+PSAP,MDSC
+PTGER2,MDSC
+PTGES2,MDSC
+S100A8,MDSC
+S100A9,MDSC
+ASGR2,Monocyte
+CFP,Monocyte
+ASGR1,Monocyte
+CD1D,Monocyte
+UPK3A,Monocyte
+ACTG1,Monocyte
+ANXA5,Monocyte
+ATP6V1B2,Monocyte
+CFL1,Monocyte
+DAZAP2,Monocyte
+CTBS,Monocyte
+EMR4P,Monocyte
+HIVEP2,Monocyte
+MARCKSL1,Monocyte
+MBP,Monocyte
+MMP15,Monocyte
+PNPLA6,Monocyte
+TMBIM6,Monocyte
+PQBP1,Monocyte
+TEX264,Monocyte
+IKZF1,Monocyte
+AKT3,NK cell
+AXL,NK cell
+BST2,NK cell
+CDH2,NK cell
+CRTAM,NK cell
+CSF2RA,NK cell
+CTSZ,NK cell
+CXCL1,NK cell
+CYTH1,NK cell
+DAXX,NK cell
+DGKH,NK cell
+DLL4,NK cell
+DPYD,NK cell
+ERBB3,NK cell
+F11R,NK cell
+FAM27A,NK cell
+FAM49A,NK cell
+FASLG,NK cell
+FCGR1A,NK cell
+FN1,NK cell
+FSTL1,NK cell
+FUCA1,NK cell
+GBP3,NK cell
+GLS2,NK cell
+GRB2,NK cell
+LST1,NK cell
+BCL2,NK cell
+CDC5L,NK cell
+FGF18,NK cell
+FUT5,NK cell
+FZR1,NK cell
+GAGE2,NK cell
+IGFBP5,NK cell
+KANK2,NK cell
+LDB3,NK cell
+BTN2A2,NK cell
+CD101,NK cell
+CD109,NK cell
+CNPY3,NK cell
+CNPY4,NK cell
+CREB1,NK cell
+CRTC2,NK cell
+CRTC3,NK cell
+CSF2,NK cell
+KLRC1,NK cell
+FUT4,NK cell
+ICAM2,NK cell
+IL32,NK cell
+LAMP2,NK cell
+LILRB5,NK cell
+KLRG1,NK cell
+HSPA4,NK cell
+HSPB6,NK cell
+ISM2,NK cell
+ITIH2,NK cell
+KDM4C,NK cell
+KIR2DS4,NK cell
+KIRREL3,NK cell
+SDCBP,NK cell
+NFATC2IP,NK cell
+MICB,NK cell
+KIR2DL1,NK cell
+KIR2DL3,NK cell
+KIR3DL1,NK cell
+KIR3DL2,NK cell
+NCR1,NK cell
+FOSL1,NK cell
+TSLP,NK cell
+SLC7A7,NK cell
+SPP1,NK cell
+TREM2,NK cell
+UBASH3A,NK cell
+YBX2,NK cell
+CCDC88A,NK cell
+CLEC1A,NK cell
+THBD,NK cell
+PDPN,NK cell
+VCAM1,NK cell
+EMR1,NK cell
+CREB5,Neutrophil
+CDA,Neutrophil
+CHST15,Neutrophil
+S100A12,Neutrophil
+APOBEC3A,Neutrophil
+CASP5,Neutrophil
+MMP25,Neutrophil
+HAL,Neutrophil
+C1orf183,Neutrophil
+FFAR2,Neutrophil
+MAK,Neutrophil
+CXCR1,Neutrophil
+STEAP4,Neutrophil
+MGAM,Neutrophil
+BTNL8,Neutrophil
+CXCR2,Neutrophil
+TNFRSF10C,Neutrophil
+VNN3,Neutrophil
+CBX6,Dentritic cells
+DAB2,Dentritic cells
+DDX17,Dentritic cells
+HIGD1A,Dentritic cells
+IDH3A,Dentritic cells
+IL3RA,Dentritic cells
+MAGED1,Dentritic cells
+NUCB2,Dentritic cells
+OFD1,Dentritic cells
+OGT,Dentritic cells
+PDIA4,Dentritic cells
+SERTAD2,Dentritic cells
+SIRPA,Dentritic cells
+TMED2,Dentritic cells
+ENG,Dentritic cells
+FCAR,Dentritic cells
+IGF1,Dentritic cells
+ITGA2B,Dentritic cells
+GABARAP,Dentritic cells
+GPX1,Dentritic cells
+KRT23,Dentritic cells
+PROK2,Dentritic cells
+RALB,Dentritic cells
+RETNLB,Dentritic cells
+RNF141,Dentritic cells
+SEC14L1,Dentritic cells
+SEPX1,Dentritic cells
+EMP3,Dentritic cells
+CD300LF,Dentritic cells
+ABTB1,Dentritic cells
+KLHL21,Dentritic cells
+PHRF1,Dentritic cells
